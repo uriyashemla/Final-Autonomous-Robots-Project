@@ -49,7 +49,13 @@ Then you'll be able to run it.
 https://user-images.githubusercontent.com/73976733/179230281-d159ce6d-f6c3-4592-a50d-e1935cd9a4cd.mov
 
 
-
+# Information:
+ * https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/
+ * https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping
+ * https://gazebosim.org/
+ 
+ 
+# Enjoy:smile: 
 
 
 
