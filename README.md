@@ -1,5 +1,5 @@
 # Final-Autonomous-Robots-Project:
-![1797828_c391_3 (1)](https://user-images.githubusercontent.com/73976733/179217196-363b3858-ab8f-4862-a7c1-1508a7fe61c4.jpg)
+![1797828_c391_3 (2)](https://user-images.githubusercontent.com/73976733/179217829-a156c827-9a5e-4c01-ba22-5083452d9b08.jpg)
 
 ROS2 package port for multi-robot autonomous exploration of map-explore. Currently tested on Foxy distros.
 # About the project:
